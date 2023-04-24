@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+In this project when you download and open in VS code then open terminal to run a command below for packages install first:
+
+### `npm install`
+
 ## Available Scripts
 
 In the project directory, you can run:
